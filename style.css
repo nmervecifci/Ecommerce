@@ -32,6 +32,7 @@ nav ul li a{
 }
 nav ul li a i{
     margin-right: 10px;
+    padding: 8px;
     transition: transform 0.3s ease;
 }
 nav ul li a i:hover{
@@ -218,6 +219,7 @@ background-color: black;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 25px;
+    padding: 2rem;
   }
   /*Footer*/
   .footer .footer_tag h1{
@@ -235,3 +237,4 @@ background-color: black;
     margin-left: 15px;
     background-color: whitesmoke;
   }
+  
